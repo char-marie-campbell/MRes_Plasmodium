@@ -3,8 +3,8 @@
 set -euo pipefail
 shopt -s nullglob
 
-INPUT="/mnt/scratch2/charlotte/badread_output"
-AUTOCYCLER_MAIN="/mnt/scratch2/charlotte/autocycler"
+INPUT="<input directory>"
+AUTOCYCLER_MAIN="<output directory>"
 
 SUBSAMPLE_COUNT=6
 GENOME_SIZE="30m"
