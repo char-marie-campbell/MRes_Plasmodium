@@ -1,7 +1,7 @@
 #!/bin/bash
 
-GENOME_IN="/mnt/scratch2/charlotte/plasmodiumGenomes"
-OUPUT="/mnt/scratch2/charlotte/ska2_analysis"
+GENOME_IN="<input_directory>"
+OUPUT="<output_directory>"
 
 THREADS=2
 KMER=17 #(41, 31)
