@@ -1,5 +1,5 @@
 #=======================================================================
-# Script 3: Generation of NJ trees
+# R Script Name: Generation of NJ trees
 # Author: Charlotte Campbell
 # Purpose: To build NJ trees from each method - SKA2 (k=17, 31, 41),
 # NUCmer, PopPUNK, and badread data
