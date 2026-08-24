@@ -1,7 +1,7 @@
 #!/bin/bash
 
-INPUT_FILE="/mnt/scratch2/charlotte/plasmodiumGenomes/tab_assem.txt"
-OUTPUT="/mnt/scratch2/charlotte/poppunk_output"
+INPUT_FILE="<input_directory>"
+OUTPUT="<output_directory>"
 
 MIN_K=29
 MAX_K=61
