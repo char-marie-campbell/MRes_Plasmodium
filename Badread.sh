@@ -1,7 +1,7 @@
 #!/bin/bash
 
-INPUT="/mnt/scratch2/charlotte/plasmodiumGenomes"
-OUTPUT="/mnt/scratch2/charlotte/badread_output"
+INPUT="<input_directory>"
+OUTPUT="<output_directory>"
 
 COVERAGE="50x"
 ERROR_MODEL="random"
