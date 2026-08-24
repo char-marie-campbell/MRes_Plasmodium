@@ -1,7 +1,7 @@
 #!/bin/bash
 
-INPUT="/mnt/scratch2/charlotte/plasmodiumGenomes"
-OUTPUT="/mnt/scratch2/charlotte/busco_genomic_outputs"
+INPUT="<input_directory>"
+OUTPUT="<output_directory>"
 
 DATABASE=apicomplexa_odb10
 
