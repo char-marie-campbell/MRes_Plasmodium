@@ -1,7 +1,7 @@
 #!/bin/bash
 
-READS_IN="/mnt/scratch2/charlotte/badread_output"
-OUT_DIR="/mnt/scratch2/charlotte/ska2_analysis"
+READS_IN="<input_directory>"
+OUT_DIR="<output_directory"
 
 THREADS=2
 KMER=17
